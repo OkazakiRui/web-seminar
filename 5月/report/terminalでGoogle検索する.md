@@ -50,7 +50,7 @@ paginate: true
 
 ---
 
-![image](./terminal-google.gif)
+![image](./terminalでGoogle検索する.gif)
 
 ---
 
